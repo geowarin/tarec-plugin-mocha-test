@@ -10,8 +10,11 @@
     "babel-core": "^6.8.0",
     "enzyme": "^2.2.0",
     "expect": "^1.19.0",
+    "foreground-child": "^1.4.0",
     "jsdom": "^8.5.0",
     "mocha": "^2.4.5",
-    "react-addons-test-utils": "^15.0.2"
+    "nyc": "^6.4.4",
+    "react-addons-test-utils": "^15.0.2",
+    "spawn-wrap": "^1.2.2"
   }
 }
