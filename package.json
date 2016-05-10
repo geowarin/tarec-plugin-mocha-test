@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.8.0",
+    "describe-with-dom": "^1.0.0",
     "enzyme": "^2.2.0",
     "expect": "^1.19.0",
     "foreground-child": "^1.4.0",
