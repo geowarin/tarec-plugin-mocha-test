@@ -11,6 +11,7 @@
     "enzyme": "^2.2.0",
     "expect": "^1.19.0",
     "foreground-child": "^1.4.0",
+    "ignore-styles": "^1.2.0",
     "jsdom": "^8.5.0",
     "mocha": "^2.4.5",
     "nyc": "^6.4.4",
